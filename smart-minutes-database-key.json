@@ -1,13 +1,3 @@
 {
-  "type": "service_account",
-  "project_id": "smartminutesdatabase",
-  "private_key_id": "08a18a9e5187f36838c1a1828689193e03681b74",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCMNmmJEhd48mmg\nv/0osD3KgJGnyHVGli9obb0izaud70WxN4Em35QasN7ClIjKdXDS0Ljv5psKq/gJ\nv89M8wK3skDRP0TKIkmmTXV4k/42qwFGQjS4faluNa40Oz8K+QfCYDFEt8JtUVhk\nUIkShcRPPHzd3orItFCEMwlYkfREY65y6ZqoZZAVo8sSsQcbRRdL3B3DvnNz9fD1\ndH700Bxf+TqPxfHFAuVnnyJCQRMrdBiN3/nraeXpz+NtLdk0xNKbMN1PSy+7uLYw\nowYg1AGGSr38jtwcv1oVR60LA5Ks/jjS9N8e8Hyq3G6EFkp7v5WWFTscLMJ0c3MT\n0FO9/F3lAgMBAAECggEAMbcbXYA+NWLSxC4+793p0vMackD4IFKhNahvfzcoykOs\nVOVm1GdDJuGe4qRzCkJxAjcC1AFS6QpH1QEfWlvyEztPk0IZPIjCz4Y4iEwFP9IL\njiNseRwJZuv+vENjm5roPuoHniN/+23z5wHNUHWAwU2jwrGlSPvybqWAA1khINwm\n7H0HTxv0mTZO0UNOnhgTRLZBM2308XGV+qBZJouuAyfQ217qmHlX65uCcg0dvLkt\nDXxlj49S0XogUITi1O7GtIkaR62OhvE0+4eyiYa8JnyAkcP5jHhctI/uSaLG01s3\niZ4alqvqblmsFGP5Jw4pRlZkU5nfQMvCY3KkWTwUIwKBgQDErM8ZJ8W+qeenHuR4\n5c2yQUFaE9bQkAU7foNdKSkcJwvsRS2fWqRUX6EhfhR+KRxJDZrki1aGzbJhnsY0\nS6HwplrSM73H/O0VpyDfE3ASoiidPWNKvUWpu8aw5BET12CiAUu1iBG/zeObAzWi\n5RZjlfOl66NWFY+WdO5XsUG7OwKBgQC2gZX6PPk16Fh3fEntNOyoX0dJWExpqOxy\nPQ/tE432/2qTiN6IFZ5oybAraqyLB6HI1CPvDeR9zIlzY6xQEViPU/COmubDx1ND\n5pu87+3EMCWNsXcHVEAWFBStGetYlq1FxWif31I5dA20HFgkGquX42Rw8HYtxaXi\nrXJLU7t5XwKBgFctqpch9BtxwMdpgCi+5JDRMCC3jo7gaBFZIO2YoyphfH18pJ5w\nVUs5IHlyI69QlcMkDrajtPUIFLwE3yKrK9s6QiPO357YVFc2v/Fh8lmwG4Sng23L\nvCdins4mKhO7cpAdNuv+pq94mh1KLOpJ1cTK4Td43ev4nq84obWpUtOlAoGBALZs\n6WDsOZ5s1KD6l1qHoFbchgEGRbsHovC9oIG1Hh5aSEmYcfdMxL6xe2qqgjWmN0zq\n39A/7rjgDjRM2Rxfekop+TZSF4ByaQRiKiG9IckM5zyuuu+Ug0qOX+x3EAvI8QHg\nxSeoriPHoTr7ag8MqaB1JxzM/xPZkGr4PFqXI7m5AoGAJB4N22Apt0HuG3wF3oEa\n8RGmu0DDnCLS56oshiWg4sdQnL25USgvI7pWFt0UDHiGFwOQpxcmW88ZfKzOWGWo\nNWCrCAfzBgByLmfxg7jG6/PUKnZiX8W3fRMg8i8+dkc10vmYLpkCfez5wfespABu\ngv0FV+yMbfqgKiSlCjxMlRs=\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-fbsvc@smartminutesdatabase.iam.gserviceaccount.com",
-  "client_id": "100417706221168756720",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40smartminutesdatabase.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
+
 }
